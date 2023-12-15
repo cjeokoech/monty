@@ -39,4 +39,3 @@ void _mod(stack_t **stack, unsigned int line_number)
 	*stack = h->next;
 	free(h);
 }
-
