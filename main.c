@@ -1,4 +1,6 @@
+#define _POSIX_C_SOURCE 200809L
 #include "monty.h"
+#define _POSIX_C_SOURCE 200809L
 #include <stdio.h>
 var_t var = {NULL, NULL, NULL, 0};
 /**

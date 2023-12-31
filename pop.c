@@ -5,7 +5,7 @@
  * @line_number: line_number
  * Return: no return
 */
-void f_pop(stack_t **stack, unsigned int line_number)
+void _pop(stack_t **stack, unsigned int line_number)
 {
 	stack_t *h;
 
